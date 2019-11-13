@@ -13,6 +13,6 @@ def happy_birthday(birthday_kids)
 end
 binding.pry
 def age_appropriate_birthday(birthday_kids)
-  binding.pry
+  # binding.pry
 end
 
